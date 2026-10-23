@@ -16,7 +16,8 @@ Contact: raynoesis01@gmail.com
 
 ## Publication status
 
-Public GitHub repository: https://github.com/shuruili77/raynoesis-portfolio. GitHub Pages deployment is not enabled. All website links are relative, so the root contents can support a future GitHub Pages project site when publication is authorized.
+Public GitHub repository: https://github.com/shuruili77/raynoesis-portfolio. Live website: https://shuruili.com/raynoesis-portfolio/. GitHub Pages publishes the main branch repository root. All website links are relative.
 
 No deployment workflow, analytics, external fonts or third-party script dependencies are included.
+
 
