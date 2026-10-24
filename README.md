@@ -20,4 +20,6 @@ Public GitHub repository: https://github.com/shuruili77/raynoesis-portfolio. Liv
 
 No deployment workflow, analytics, external fonts or third-party script dependencies are included.
 
+## Portfolio revision — 2026-10-23
 
+The Chang’an manor demonstration now separates the kitchen and granary eaves. The project page includes 11 actual Unity images, modular construction guidance, category budgets and all 14 example instance/triangle counts. Every project page includes a geometry budget with its counting scope and LOD or optional-background notes. The Unity source packages remain outside this website repository.
